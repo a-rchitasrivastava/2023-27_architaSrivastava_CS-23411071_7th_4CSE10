@@ -27,44 +27,60 @@ The project followed a basic UI/UX design process:
 3. Creating page layouts and wireframes
 4. Designing the user interface
 5. Creating product category pages
-6. Creating the login/signup interface
+6. Designing the login/signup interface
 7. Connecting screens into an interactive prototype
 8. Reviewing and improving the visual design
 
-## Key Screens
+## Key Features
 
-### Home Page
-The home page introduces the Zivika brand and provides navigation to different jewellery categories.
-
-### Product Category Pages
-The project includes category pages for:
-
-- Rings
-- Bracelets
-- Pendants
-- Anklets
-
-### Login Page
-A login/signup interface was designed to provide users with access to their account.
+- Jewellery and accessories product browsing
+- Category-based navigation
+- Product listing pages
+- Login/Signup interface
+- Clean and consistent visual design
+- Interactive prototype
+- E-commerce focused user interface
 
 ## Screenshots
 
-The `screenshots` folder contains the main UI screens of the Zivika project.
+### Home Page
+
+![Zivika Home Page](screenshots/home-page.png)
+
+### Rings
+
+![Zivika Rings](screenshots/ring.png)
+
+### Bracelets
+
+![Zivika Bracelets](screenshots/bracelets.png)
+
+### Pendants
+
+![Zivika Pendants](screenshots/pendants.png)
+
+### Anklets
+
+![Zivika Anklets](screenshots/anklets.png)
+
+### Login Page
+
+![Zivika Login Page](screenshots/login-page.png)
 
 ## Figma Prototype
 
-View the complete interactive prototype:
+The complete interactive prototype is available in Figma.
 
-[View Zivika Figma Prototype](https://www.figma.com/proto/fbBwgdjA8Cq5f0v6IBHRkV/zivika-accessories?node-id=0-1&t=iWojaGRe1KlsIEOT-1)
-
+[View Zivika Figma Prototype](https://www.figma.com/proto/fbBwgdjA8Cq5f0v6IBHRkV/zivika-accessories?node-id=329-168&t=iWojaGRe1KlsIEOT-1)
 ## Project Highlights
 
-- E-commerce focused UI design
-- Jewellery and accessories product browsing
-- Category-based navigation
-- Clean and consistent visual interface
-- Interactive Figma prototype
-- Responsive desktop-oriented layouts
+- Designed 0using Figma
+- E-commerce UI/UX design
+- Jewellery-focused interface
+- Multiple product category screens
+- Interactive prototype
+- User-friendly navigation
+- Consistent visual design
 
 ## Conclusion
 
